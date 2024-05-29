@@ -1,0 +1,40 @@
+form{
+    
+color: white;
+font-weight: bolder;
+width: 500px;
+
+}
+
+input{
+    height: 29px;
+    margin-bottom: 10px;
+    display: block;
+    width: 98%;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: black; 
+}
+button{
+    padding: 10px;
+    background-color: rgb(245, 10, 10);
+    color: white;
+    font-weight: bolder;
+    width: 100%;  
+    
+}
+.message-erro{
+    text-align: center;
+    display: none;
+}
+.message-sucess{
+    text-align: center;
+    display: none;
+}
